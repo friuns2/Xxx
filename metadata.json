@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tic-Tac-Toe",
+  "description": "A modern, neon-styled Tic-Tac-Toe game featuring an AI opponent powered by Google's Gemini Flash model.",
+  "requestFramePermissions": []
+}
